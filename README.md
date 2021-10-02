@@ -2,7 +2,7 @@
 
 This is a chatting application built using React. @ant-design, axios and react-chat-engine were some of the dependencies that were used. User can create multiple chat rooms, get sound notification, send text, images, emojis, add users, change admin and a lot more. The backend has been made using [chat engine](https://chatengine.io/) using which users and admin privileges are accessed. <br><br>
 The project has been built following this [Video](https://youtu.be/jcOKU9f86XE) from JavaScript Mastery YouTube channel. <br><br>
-To run the project locally:
+# To run the project locally:
 
 ### `npm start`
 
