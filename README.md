@@ -29,18 +29,18 @@ Any user can make a new chat room and add other users directly by their username
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-Create an account in [chat engine](https://chatengine.io/) make profiles for users, copy project id, move to Chat-App/src/App.js  line number 25 and paste.
+Create an account in [chat engine](https://chatengine.io/), make profiles for users, copy project id, move to Chat-App/src/App.js  line number 25 and paste.
 
 Run `npm start` and the app opens up in browser. 
 
-### 'npm build'
+### `npm build`
 
 To build a production ready application.
 
 
 The project is deployed here: [test](https://roy-chat-app.netlify.app/). Contact for getting username and password.
 
-That's all. You are all set to start your conversation💯💯 <br>
+That's all. You are all set to start your conversation 💯💯 <br>
 
 If you like my work do consider dropping a ⭐️ :)
 
